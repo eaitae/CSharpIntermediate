@@ -45,4 +45,4 @@ Now that we have the concept of a DbConnection, let’s work out how to represen
 DbCommand.
 Design a class called DbCommand for executing an instruction against the database
 
-OBS: Those are just the exercises "basic idea", not the full structions :) just so you can understand the codes 
+OBS: Those are just the exercises "basic ideas", not the full structions :) just so you can understand the codes 
