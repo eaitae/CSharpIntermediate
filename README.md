@@ -44,3 +44,5 @@ Timeout : TimeSpan
 Now that we have the concept of a DbConnection, let’s work out how to represent a
 DbCommand.
 Design a class called DbCommand for executing an instruction against the database
+
+OBS: Those are just the exercises "basic idea", not the full structions :) just so you can understand the codes 
