@@ -1,0 +1,8 @@
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.AssemblyReference.cache
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.SuggestedBindingRedirects.cache
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.exe
+C:\Users\poatau01\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.pdb

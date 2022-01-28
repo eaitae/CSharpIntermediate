@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4bb2bee-c149-4790-9ab0-a9db0e8bc589": {
+      "ProjectGuid": "c4bb2bee-c149-4790-9ab0-a9db0e8bc589",
+      "DisplayName": "WorkflowEngine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

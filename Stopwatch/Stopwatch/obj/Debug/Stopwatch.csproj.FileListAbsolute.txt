@@ -1,0 +1,8 @@
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\poatau01\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb

@@ -1,0 +1,8 @@
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\poatau01\source\repos\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

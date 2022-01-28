@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f0fade1-c36f-4025-96ac-e91eb7e08b59": {
+      "ProjectGuid": "1f0fade1-c36f-4025-96ac-e91eb7e08b59",
+      "DisplayName": "DatabaseConnection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

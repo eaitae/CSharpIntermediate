@@ -1,0 +1,8 @@
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.AssemblyReference.cache
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+C:\Users\poatau01\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.pdb
