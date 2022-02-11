@@ -1,5 +1,5 @@
 # CSharpIntermediate
-My solutions for the C# Intermediate: Classes, Interfaces and OOP by Mosh Hamedani exercises 
+My solutions for the C# Intermediate: Classes, Interfaces and OOP by Mosh Hamedani course
 
 Exercise: Design a Stack
 A Stack is a data structure for storing a list of elements in a LIFO (last in, first out) fashion.
